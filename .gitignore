@@ -1,0 +1,4 @@
+node_modules/
+dist/
+.env
+.DS_Store //Esto se escribe para que git no incluya las carpetas generadas de forma automatica
